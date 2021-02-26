@@ -1,0 +1,1 @@
+tellraw @a [{"text":"[提示]","color":"dark_aqua","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false},{"text":":","color":"black","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
