@@ -1,6 +1,5 @@
 
 tellraw @a [{"text": "============================================================"}]
-tellraw @a [{"text":"   极限追杀数据包,欢迎桶哥参加测试","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"   作者：AdverseWind   联系方式:1598562070（QQ）","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"   玩法介绍：","color":"black","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"       总则：极限生存，挖矿发育，两方对决,可以认为UHC吧","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
@@ -11,7 +10,7 @@ tellraw @a [{"text":"       赞助链接:https://afdian.net/album/d2c04c108fcf11
 say @a 链接:https://afdian.net/album/d2c04c108fcf11eb8e0d52540025c377
 tellraw @a [{"text":"   推荐人数： 3 ~ 6    1 ~ 2名逃脱者，2 ~ 5名追杀者","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"   游戏时长： 30 ~ 90 min       ","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
-tellraw @a [{"text":"   有些功能并未完全开发,暂不支持重置","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+tellraw @a [{"text":"   有些功能并未完全开发,处于早期测试阶段，暂不支持重置","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"   请勿输入任何命令","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 
 gamemode survival @a
