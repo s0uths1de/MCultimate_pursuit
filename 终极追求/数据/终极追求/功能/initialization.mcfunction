@@ -1,6 +1,6 @@
 
 tellraw @a [{"text": "============================================================"}]
-tellraw @a [{"text":"   作者：AdverseWind   联系方式:1598562070（QQ）","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
+tellraw @a [{"text":"   作者：ChengNan  联系方式:1598562070（QQ）","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"   玩法介绍：","color":"black","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"       总则：极限生存，挖矿发育，两方对决,可以认为UHC吧","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
 tellraw @a [{"text":"       逃脱者：躲避追杀者，进地狱，找要塞，击败末影龙","color":"gold","bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]
